@@ -7,7 +7,7 @@
 I get questions by email, occasionally. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code.
-Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
+Cooking. Traveling. Sports. Teaching. Pokémon. Whatever.
 
 ### Guidelines
 

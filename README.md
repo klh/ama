@@ -22,9 +22,3 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever.
 
  - [Read more AMAs.](https://github.com/sindresorhus/amas)
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
-
-### License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.svg)](https://github.com/Naereen/ama/blob/master/LICENSE)
-This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
-](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)

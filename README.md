@@ -11,7 +11,7 @@ I get questions by email, occasionally. This way anyone can read the answer!
 Anything means *anything*. Personal questions. Money. Work. Life. Code.
 Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
 
-### :memo: Guidelines
+### Guidelines
 
  - Ensure your question has not already been answered.
  - Use a succinct title and description.
@@ -25,7 +25,7 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - [Read more AMAs.](https://github.com/sindresorhus/amas)
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.svg)](https://github.com/Naereen/ama/blob/master/LICENSE)
+### License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.svg)](https://github.com/Naereen/ama/blob/master/LICENSE)
 This (small) repository is published under the terms of the [MIT license](http://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
 ](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
